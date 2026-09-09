@@ -17,20 +17,37 @@
 - 📚 Always learning and improving my development skills
 
 ---
-
 ## 🛠️ Technologies & Skills
 
-### Programming Languages
-`Java` `Python` `C` `C++`
+### 💻 Programming
+<p>
+  ☕ Java &nbsp;&nbsp;
+  🐍 Python &nbsp;&nbsp;
+  🔵 C &nbsp;&nbsp;
+  ⚡ C++
+</p>
 
-### Web Development
-`HTML` `CSS` `JavaScript` `React`
+### 🌐 Web Development
+<p>
+  🌐 HTML &nbsp;&nbsp;
+  🎨 CSS &nbsp;&nbsp;
+  🟨 JavaScript &nbsp;&nbsp;
+  ⚛️ React
+</p>
 
-### Backend & Database
-`Node.js` `Express.js` `MongoDB`
+### 🔧 Backend & Database
+<p>
+  🟢 Node.js &nbsp;&nbsp;
+  🚀 Express.js &nbsp;&nbsp;
+  🍃 MongoDB
+</p>
 
-### Tools
-`Git` `GitHub` `VS Code`
+### 🧰 Tools
+<p>
+  🔧 Git &nbsp;&nbsp;
+  🐙 GitHub &nbsp;&nbsp;
+  💙 VS Code
+</p>
 
 ---
 
