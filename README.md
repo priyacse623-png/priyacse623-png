@@ -1,63 +1,46 @@
-# Hi 👋 I'm Priyadharshini
+<h1 align="center">👋 Hi, I'm Priyadharshini</h1>
 
-### CSE Student | Java & Python Developer | Problem Solver
+<h3 align="center">💻 CSE Student | Developer | Problem Solver</h3>
 
-I enjoy learning programming by building projects and solving problems.
+<p align="center">
+  Passionate about coding, problem-solving, and building useful projects.
+</p>
 
-## 🚀 What I'm Working On
+---
 
-- 💻 Practicing Java and Data Structures & Algorithms
-- 🐍 Learning and building with Python
-- 🌐 Developing projects using HTML, CSS and JavaScript
-- 🏥 Building real-world applications like CareChain
-- 🧠 Improving problem-solving through competitive programming
+## 👩‍💻 About Me
 
-## 🛠️ Tech Stack
+- 🎓 Computer Science Engineering Student
+- 💻 Interested in Java, Python & Web Development
+- 🧠 Practicing Data Structures & Algorithms
+- 🚀 Building real-world projects
+- 📚 Always learning and improving my development skills
 
-**Languages**
-- Java
-- Python
-- C
-- C++
+---
 
-**Web**
-- HTML
-- CSS
-- JavaScript
-- React
+## 🛠️ Technologies & Skills
 
-**Backend & Database**
-- Node.js
-- Express.js
-- MongoDB
+### Programming Languages
+`Java` `Python` `C` `C++`
 
-**Tools**
-- Git
-- GitHub
-- VS Code
+### Web Development
+`HTML` `CSS` `JavaScript` `React`
 
-## 🌟 Featured Projects
+### Backend & Database
+`Node.js` `Express.js` `MongoDB`
 
-### 🏥 CareChain
-A healthcare-focused web application designed to manage prescriptions, medication adherence and risk information.
+### Tools
+`Git` `GitHub` `VS Code`
 
-### 🚗 Lane Detection System
-A computer vision project that detects road lanes from video using Python and OpenCV.
+---
 
-### 🔐 Smart Password Security Analyzer
-A project that evaluates password strength and provides security suggestions.
+## 🚀 Featured Projects
 
-## 📚 Currently Learning
+🏥 **CareChain**  
+Healthcare-focused web application for prescription, medication adherence and risk management.
 
-- Java & DSA
-- Python
-- Web Development
-- Problem Solving
+🚗 **Lane Detection System**  
+Computer vision project for detecting road lanes using Python and OpenCV.
 
-## 📊 My Goal
-
-> Learn consistently. Build useful projects. Keep improving. 🚀
-
-## 🤝 Connect With Me
-
-- GitHub: [@priyacse623-png](https://github.com/priyacse623-png)
+🔐 **Smart Password Security Analyzer**  
+Web-based application for analysing password strength and providing security suggestions.
